@@ -1,0 +1,15 @@
+<svg width="149" height="140" viewBox="0 0 149 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logo1" clip-path="url(#clip0_86_16)">
+<path id="arrow" d="M100 14.0024C116.8 13.7563 112.733 32.5649 108.6 42L123 15.5407L100 14.0024Z" stroke="#464646" stroke-width="10"/>
+<g id="letters">
+<path id="Vector 4" d="M76 10L38 10M0 10L38 10M38 10L38 86" stroke="#464646" stroke-width="22"/>
+<path id="Vector 5" d="M63 42C130.5 70.2635 63 101 63 101V42Z" stroke="#464646" stroke-width="22"/>
+<path id="Vector 6" d="M74.7687 127.552L132.637 105.297L117.561 66.0963" stroke="#464646" stroke-width="22"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_86_16">
+<rect width="149" height="140" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: NotoSans, sans-serif;
+}
+
+.app {
+  @apply flex justify-center flex-col items-center w-full h-full;
+}
+
+.outline_black {
+  @apply h-10 rounded-full border border-black bg-transparent py-1.5 px-5 text-black transition ease-out hover:-translate-y-1 hover:scale-100 hover:bg-black hover:text-white;
+}
+
+.btn_black {
+  @apply h-10 rounded-full border border-black bg-black py-1.5 px-5 text-white transition ease-out hover:-translate-y-1 hover:scale-100 hover:bg-transparent hover:text-black;
+}
